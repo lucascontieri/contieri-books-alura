@@ -2,7 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## ![Project Running] https://github.com/lucascontieri/contieri-books-alura/blob/main/video-contieri-books-alura.gif?raw=true
+## ![Project Running] 
+
+https://github.com/lucascontieri/contieri-books-alura/blob/main/video-contieri-books-alura.gif
 
 ## Available Scripts
 
